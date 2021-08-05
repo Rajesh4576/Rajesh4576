@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Rajesh4576
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rajesh Nagar 
+- 👀 I’m interested in Web development ,SOFTWARE DEVELOPMENT 
+- 🌱 I’m currently learning B.tech in computer science from RGPV UNIVERSITY 
+- 💞️ I’m looking to collaborate on DATA STRUCTURE 
+- 📫 How to reach me 
+Click this link : 
+https://www.linkedin.com/in/rajesh-nagar-616950204
 
-<!---
-Rajesh4576/Rajesh4576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
